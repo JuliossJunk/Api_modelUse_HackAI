@@ -11,7 +11,7 @@ This module provides an easy way to apply a saved Machine Learning (ML) model fo
 - Built-in support for model saving and loading
 - Out-of-the-box support for multi-label classification
 - Customizable model hyperparameters
-- [Модельки](https://drive.google.com/drive/folders/1dXI-ysKn3pgE2Ji0zsMpp9UZO6yHjq5e?usp=sharing)
+- [Models](https://drive.google.com/drive/folders/1dXI-ysKn3pgE2Ji0zsMpp9UZO6yHjq5e?usp=sharing)
 
 ## Installation
 
